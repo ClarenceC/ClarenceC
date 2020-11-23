@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![ClarenceC's github stats](https://github-readme-stats.vercel.app/api?username=ClarenceC&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ClarenceC's github stats](https://github-readme-stats.vercel.app/api?username=ClarenceC&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
