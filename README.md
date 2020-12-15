@@ -1,7 +1,9 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ClarenceC&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats"/>
+
 ### Hi there 👋
 
 Hello  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ClarenceC&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats"/>
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClarenceC&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
