@@ -1,11 +1,17 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ClarenceC&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ClarenceC&show_icons=true&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats"/>
+</a>
 
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClarenceC&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+### Hi there 🥥
 
 Hello  
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClarenceC&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <!--
 **ClarenceC/ClarenceC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
